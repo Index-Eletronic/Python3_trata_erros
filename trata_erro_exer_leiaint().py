@@ -33,4 +33,4 @@ def leiaFloat(msg):
 
 n1 = leiaInt('Digite um Numero Inteiro: ')
 n2= leiaFloat('Digite um Numero Real: ')
-print(f'O Valor inteiro digitado foi{n1} e o real {n2}')    
+print(f'O Valor inteiro digitado foi{n1} e o real {n2}')
